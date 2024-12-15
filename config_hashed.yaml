@@ -1,0 +1,37 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    agontier:
+      email: alice.gontier94@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Alice Gontier
+      password: $2b$12$un5UIRxZHYdxM8Qxgqxhges.5Fy9TwA46eo0vHNOatZFxCYdDSQH.
+      roles:
+      - admin
+      - editor
+      - viewer
+    jsmith:
+      email: jsmith@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: John Smith
+      password: $2b$12$aWDgibz1z5ag2.M3tJtNh.cQZu5wGMtg9BsnJACXTDD7zJ5Nqrshu
+      roles:
+      - admin
+      - editor
+      - viewer
+    rbriggs:
+      email: rbriggs@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Rebecca Briggs
+      password: $2b$12$S221oizrjlU0dQ1zWZOFCeV9K6JPVQ/gnnWpen/F2Jk.aGV.HxLOC
+      roles:
+      - viewer
+pre-authorized:
+  emails:
+  - alice.gontier94@gmail.com
