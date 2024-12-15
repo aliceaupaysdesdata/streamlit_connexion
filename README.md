@@ -1,6 +1,4 @@
 # streamlit_connexion
 
-# Lancement du streamlit : 
-
-Via le Terminal CMD : streamlit run ./app_streamlit_S12.py
-Directement en ligne : [Accéder au site](https://app-anyznrw7ixbnqxrs7gnyni.streamlit.app/)
+# Accéder au site : ([https://app-anyznrw7ixbnqxrs7gnyni.streamlit.app/](https://appconnexion-7gqn5xusxjeyxzmffpgere.streamlit.app/))
+Tester la connexion avec : 
